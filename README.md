@@ -8,6 +8,8 @@
 | Font Awesome Regular         | [Font Awesome](https://fontawesome.com/license)                | [Proprietary](https://fontawesome.com/license) |
 | Pictogrammers Material Icons | [Pictogrammers](https://pictogrammers.com/library/mdi/)         | [Apache 2.0](https://pictogrammers.com/docs/general/license/) |
 | Dripicons V2 by Amit Jakhu   | [Dripicons](https://github.com/amitjakhu/dripicons)             | [CC BY 4.0](http://creativecommons.org/licenses/by-sa/4.0/) and [OFL](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) |
+| Custom Icon Design           | [Custom Icon Design](https://www.customicondesign.com/)        | Free for non-commercial use                                                |
+
 
 
 ---
